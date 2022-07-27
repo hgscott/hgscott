@@ -1,6 +1,6 @@
 
 ![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hgscott&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgscott&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hgscott&hide=html&theme=vue)
 
 ### Hi there 👋
 - 📚 I am currently a student in the [Segrè lab at Boston University](https://www.bu.edu/segrelab/).
