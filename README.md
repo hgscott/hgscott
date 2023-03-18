@@ -1,7 +1,6 @@
 ### Hi, I'm Helen 👋
 - 📚 I am currently a student in the [Segrè lab at Boston University](https://www.bu.edu/segrelab/).
-- 👩‍💻 My work focuses on modeling metabolic interactions between phototrophs and heterotrophs.
-- 🔬 I’m looking to collaborate with people who work with confocal laser scanning microscopy.
+- 👩‍💻 My work focuses on modeling the metabolism of marine heterotrophic bacteria.
 - 📫 E-mail: hscott@bu.edu
 - 😄 Pronouns: she/her
 
